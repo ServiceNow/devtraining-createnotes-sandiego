@@ -14,11 +14,11 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>CreateNotes</name>
+        <name>AB CreateNotes</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
-        <scope>x_snc_createnotes</scope>
+        <scope>Ab_x_snc_createnotes</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_snc_createnotes</source>

@@ -21,7 +21,7 @@
         <scope>Ab_x_snc_createnotes</scope>
         <scoped_administration>false</scoped_administration>
         <short_description/>
-        <source>x_snc_createnotes</source>
+        <source>Ab_x_snc_createnotes</source>
         <store_correlation_id/>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
